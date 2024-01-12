@@ -1,5 +1,5 @@
 export const index = () => {
   return (
-    <button>index</button>
+    <button className="text-red-500">index</button>
   )
 }
